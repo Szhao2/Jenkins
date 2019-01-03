@@ -19,11 +19,6 @@
 	
 	<dependencies>
 		<dependency>
-			<artifactId>ojdbc7</artifactId>
-			<groupId>com.oracle</groupId>
-			<version>12.1.0</version>
-		</dependency>
-		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
 			<version>3.1.0</version>
